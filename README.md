@@ -7,12 +7,13 @@ Technologies Used:
 
 HTML: Provides the structural foundation for the page.
 Tailwind CSS: Used for styling and responsiveness, making the page visually appealing and adaptive to different screen sizes.
-Features:
 
+
+Features:
 Clean, minimal design.
 Fully responsive layout.
 Celebrates milestones and achievements.
-Future Enhancements:
 
+Future Enhancements:
 Add animations and interactive elements.
 Include a gallery showcasing gym events and transformations.
